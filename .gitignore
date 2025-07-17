@@ -1,0 +1,13 @@
+# Ignore downloaded or generated tarballs
+*.tar
+*.tar.gz
+
+# Optional: other clutter
+*.log
+*.tmp
+*.bak
+
+# Editor/OS noise
+.DS_Store
+.idea/
+.vscode/
